@@ -1,4 +1,4 @@
-## Olá eu sou o Leonardo, estudante de programação e tecnologias! 👋😊
+## Olá eu sou o Leonardo, amante de programação e tecnologias! 👋😊
 
 <!--
 **Leocbm/Leocbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
